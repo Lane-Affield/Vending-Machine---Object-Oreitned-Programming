@@ -1,1 +1,1 @@
-# Vending-Machine---Object-Oreitned-Programming
+# Vending-Machine---Object-Oriented-Programming
